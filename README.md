@@ -5,6 +5,12 @@ what you will learn in each tutorial.
 
 Gain beginner to advance level of skills with angular5 framework.
 
+# Installation
+- Checkout the branch
+- run ``npm install`` to install dependencies
+- run ``ng serve --open`` to serve the app on browser
+
+ 
 # Angular5 Admin Panel Part-1
 - Learn basics about angular5
 - What is @NgModule?

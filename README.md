@@ -1,27 +1,49 @@
-# Angular5Admin
+# Angular5 Admin Panel Tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.2.
+Learn how to create an admin panel using angular5 framework. Followings are the links and details about
+what you will learn in each tutorial.
 
-## Development server
+Gain beginner to advance level of skills with angular5 framework.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Angular5 Admin Panel Part-1
+- Learn basics about angular5
+- What is @NgModule?
+- What is AppComponent?
+- How to setup angular5 project?
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Tutorial Link: [Angular5 Admin Panel Part-1](https://learn2torials.com/a/create-admin-panel-using-angularjs-5-part-1)
 
-## Build
+# Angular5 Admin Panel Part-2
+- How to apply theme to angular5?
+- How to create a new component or page?
+- What is root component in angular5?
+- How to serve angular5 app on browser?
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Tutorial Link: [Angular5 Admin Panel Part-2](https://learn2torials.com/a/angular5-admin-panel-part-2)
 
-## Running unit tests
+# Angular5 Admin Panel Part-3
+- How to create login page using angular5?
+- How to use reactive forms in angular5?
+- How to configure router in angular5?
+- Login form validation using angular5?
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Tutorial Link: [Angular5 Admin Panel Part-3](https://learn2torials.com/a/angular5-admin-panel-part-3)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# Angular5 Admin Panel Part-4
+- How to create base layout in angular5?
+- How to create header and footer components?
+- How to drop different components in one component?
 
-## Further help
+Tutorial Link: [Angular5 Admin Panel Part-4](https://learn2torials.com/a/angular5-admin-panel-part-4)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# Angular5 Admin Panel Part-5
+- How to add authentication to login in angular5?
+- How to create a new service provider in angular5?
+- How to use a service provider at global scale?
+- How to protect user pages using service in angular5?
+
+Tutorial Link: [Angular5 Admin Panel Part-5](https://learn2torials.com/a/angular5-admin-panel-part-5)
+

@@ -29,6 +29,9 @@ export class LoginComponent implements OnInit {
 
   ngOnInit() {
 
+      // dump config data
+      // console.log(this.route.snapshot.data.configs);
+
       // logout current user
       this.authService.logout();
       this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/dashboard';

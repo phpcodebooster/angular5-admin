@@ -2,6 +2,9 @@
   <div class="card card-login mx-auto mt-5">
     <div class="card-header">Login</div>
     <div class="card-body">
+      <div class="alert alert-danger" [hidden]="!error">
+        <strong>Error!</strong> Invalid Credentials
+      </div>
       <form (ngSubmit)="onSubmit()" [formGroup]="loginForm">
         <div class="form-group" [ngClass]="{'has-error': loginForm.controls['email'].errors && !loginForm.controls['email'].pristine}">
           <label for="email">Email address</label>

@@ -3,6 +3,8 @@
 Learn how to create an admin panel using angular5 framework. Followings are the links and details about
 what you will learn in each tutorial.
 
+Demo URL: https://phpcodebooster.github.io/angular5-admin
+
 Gain beginner to advance level of skills with angular5 framework.
 
 # Installation

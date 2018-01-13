@@ -20,7 +20,7 @@ Gain beginner to advance level of skills with angular5 framework.
 - How to setup angular5 project?
 
 
-Tutorial Link: [Angular5 Admin Panel Part-1](https://learn2torials.com/a/create-admin-panel-using-angularjs-5-part-1)
+Tutorial Link: [Angular5 Admin Panel Part-1](https://learn2torials.com/a/angular5-admin-panel-part-1)
 
 # Angular5 Admin Panel Part-2
 - How to apply theme to angular5?
